@@ -1,5 +1,5 @@
+.ipynb
 .DS_Store
-.ipynb_checkpoints
-*.pyc
-*.pyo
-__pycache__/
+/spacyenv/
+.pyc
+__pycache__
